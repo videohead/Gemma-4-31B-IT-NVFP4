@@ -1,0 +1,7 @@
+.env
+model/
+*.log
+*.pid
+__pycache__/
+.venv-download/
+.vscode/
